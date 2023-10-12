@@ -1,6 +1,7 @@
 # c4-model-primeiro
 
 Nataniel Paiva
+
 YouTube channel: @NatanielTech
 
 Os principais tópicos do vídeo sobre o terceiro nível do Modelo C4, que é o nível de componentes, são:
