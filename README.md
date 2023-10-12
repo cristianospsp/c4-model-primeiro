@@ -4,6 +4,8 @@ Nataniel Paiva
 
 YouTube channel: @NatanielTech
 
+Nataniel abordou: level 1, 2 e 3;
+
 Os principais tópicos do vídeo sobre o terceiro nível do Modelo C4, que é o nível de componentes, são:
 
 1. **Introdução ao Nível de Componentes**: O vídeo começa explicando que o nível de componentes é voltado para detalhar as faces da arquitetura, focando nas controladoras e na interação entre os componentes da aplicação.
